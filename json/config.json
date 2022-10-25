@@ -1,0 +1,29 @@
+{
+  "CLIENT": { 
+        "ID": "1033347890078285986",
+        "INVITE": "",
+        "WEBSITE": ""
+    
+  },
+  "SETTINGS": {
+        "PREFIX": ">",
+        "ErrorChannel": "1007162347531550800",
+        "CommandLogs": "1007162388128219216"
+  },
+  "DEV": {
+        "OWNER": "1005806195128422440",
+        "CO_OWNER": ""
+  },
+  "SERVER": {
+        "OFFICIAL": {
+                "Guild_ID_1": "1006539343625723986",
+                "Guild_ID_2": "",
+                "INVITE_LINK": "https://discord.gg/boltgw"
+        },
+        "TEST": {
+                "Guild_ID_1": "1005806693474639902",
+                "Guild_ID_2": ""
+        }
+  },
+  "mongooseConnectionString": ""
+}

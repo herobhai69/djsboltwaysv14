@@ -1,0 +1,26 @@
+{
+  "clienttoken": "",
+
+  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+
+  "clientname": "BoltWays v2",
+
+  "clientid": "1033347890078285986",
+
+  "TestingServerID": "1005806693474639902",
+
+  "clientavatar":"https://media.discordapp.net/attachments/1010058994922037319/1033349831210565673/a_7a913c77ba5009ed8949eeaae9e3c994.gif",
+
+  "clientbanner":"https://media.discordapp.net/attachments/1010058994922037319/1033351449159147550/standard.gif",
+
+  "prefix": ">",
+
+  "developerID": ["1005806195128422440"],
+
+  "colorthemecode":"#FF5733 (Not Neccessary.)",
+  
+  "randomMessages_Cooldown": ["Please take a break and use command"],
+
+
+  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS"
+}
